@@ -1,0 +1,8 @@
+[
+  { "id": 101, "title": "Instalación de paneles solares domésticos", "tags": ["electricidad","solar"], "provider": "Centro Energía", "url": "https://example.com/curso-solar" },
+  { "id": 102, "title": "Gestión integral de residuos urbanos", "tags": ["reciclaje","logística"], "provider": "Residuos MX", "url": "https://example.com/curso-residuos" },
+  { "id": 103, "title": "Riego eficiente y ahorro de agua", "tags": ["agua","riego"], "provider": "AguaUrbana", "url": "https://example.com/curso-riego" },
+  { "id": 104, "title": "Análisis geoespacial para ambiente", "tags": ["datos","geoespacial"], "provider": "GeoLab", "url": "https://example.com/curso-geodatos" },
+  { "id": 105, "title": "Auditorías de eficiencia energética", "tags": ["energía","auditoría"], "provider": "Eficiencia MX", "url": "https://example.com/curso-eficiencia" },
+  { "id": 106, "title": "Restauración y manejo de arbolado urbano", "tags": ["bosque","urbano"], "provider": "BosquesCDMX", "url": "https://example.com/curso-arbolado" }
+]

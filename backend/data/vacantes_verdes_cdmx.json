@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Técnico fotovoltaico", "tags": ["electricidad","solar"], "city": "CDMX", "employer": "SolarMX" },
+  { "id": 2, "title": "Gestor de residuos", "tags": ["logística","reciclaje"], "city": "CDMX", "employer": "EcoLogística" },
+  { "id": 3, "title": "Instalador de riego eficiente", "tags": ["agua","riego"], "city": "CDMX", "employer": "VerdeUrbano" },
+  { "id": 4, "title": "Analista de datos ambientales", "tags": ["datos","geoespacial"], "city": "CDMX", "employer": "DataAmbiente" },
+  { "id": 5, "title": "Técnico en eficiencia energética", "tags": ["energía","auditoría"], "city": "CDMX", "employer": "Eficiencia MX" },
+  { "id": 6, "title": "Coordinador de reforestación", "tags": ["bosque","urbano"], "city": "CDMX", "employer": "BosquesCDMX" }
+]
